@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["I am H. Middleton", "Changing the world through Entrepreneurship"],
+        strings: ["I am H. Middleton", "Entrepreneurship", "Never stop growing"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
