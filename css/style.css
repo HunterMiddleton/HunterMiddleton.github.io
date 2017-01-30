@@ -105,6 +105,7 @@ img { max-width: 100%; }
   left: 50%;
   top: 50%;
   background-image: url(../images/loader.gif);
+  background-size: 25px 25px;
   background-repeat: no-repeat;
   background-position: center center;
   text-align: center;
@@ -113,8 +114,8 @@ img { max-width: 100%; }
 #status img {
   text-align: center;
   margin-top: -150px;
-  width: 15px;
-  height: 15px;
+  width: 150px;
+  height: 150px;
 }
 
 /*----------------------------------------- 3) Helper --------------------------------------------------*/
