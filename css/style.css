@@ -99,8 +99,8 @@ img { max-width: 100%; }
   z-index: 999999;
 }
 #status {
-  width: 10px;
-  height: 10px;
+  width: 100px;
+  height: 100px;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -113,6 +113,8 @@ img { max-width: 100%; }
 #status img {
   text-align: center;
   margin-top: -150px;
+  width: 15px;
+  height: 15px;
 }
 
 /*----------------------------------------- 3) Helper --------------------------------------------------*/
